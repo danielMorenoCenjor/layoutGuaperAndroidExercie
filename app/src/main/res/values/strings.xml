@@ -1,3 +1,180 @@
 <resources>
-    <string name="app_name">LayoutExercise</string>
+    <string name="app_name">Guaper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="round">ROUND</string>
+    <string name="internal_error">An error has ocurred</string>
+    <string name="simple">SIMPLE</string>
+    <string name="doble">DOBLE</string>
+    <string name="mega">MEGA</string>
+    <string name="extra">EXTRA</string>
+    <string name="no_image_loaded">Unable to load image.</string>
+    <string name="code_invitation">(OPTIONAL) INVITATION CODE</string>
+
+    <!-- Main activity  BEGIN-->
+    <string name="user_to_vote_not_found">No users found, try later</string>
+    <string name="user_bookie_no_credit">You\´re out of credit, do guaper and get credit!!</string>
+    <!-- Main activity  END-->
+
+    <!-- Round completed  BEGIN-->
+    <string name="mult_ganancias">MULTIPLY THE PROFITS</string>
+    <string name="you_won">YOU\´VE WON:</string>
+    <string name="you_would_have_won">YOU\´D HAVE WON:</string>
+    <!-- Round completed  END-->
+
+    <!-- x2  BEGIN-->
+    <string name="riddle_accept">The Riddle has been successful, congratulations!</string>
+    <string name="riddle_fail">The Riddle has been failed, coins no multiplied</string>
+    <string name="select_years">SELECT PEOPLE THAT YOU THINK THEY HAVE...</string>
+    <string name="years">YEARS</string>
+    <!-- x2  END-->
+
+    <!-- x3  BEGIN-->
+    <string name="select_like">SELECT PEOPLE THAT YOU THINK THEY LIKE ...</string>
+
+    <!-- x3  END-->
+
+    <!-- Interests tags to show in small place BEGIN-->
+    <string name="sporty">Sport</string>
+    <string name="audiophile">Music</string>
+    <string name="economist">Economy</string>
+    <string name="healthy">Healthy</string>
+    <string name="photography">Photography</string>
+    <string name="media">Tv, radio</string>
+    <string name="reader">Read</string>
+    <string name="gamer">Games</string>
+    <string name="shopping">Shopping</string>
+    <string name="homelike">Homelike</string>
+    <string name="wanderer">Restless</string>
+    <string name="traveler">Travel</string>
+    <string name="cautious">Cautious</string>
+    <string name="bargain">Lucky One</string>
+    <string name="impulsive">Impulsive</string>
+    <string name="family">Family</string>
+    <string name="worker">Work</string>
+    <string name="social">Social</string>
+    <string name="purchasing_power_low">SaveMoney</string>
+    <string name="purchasing_power_medium">Normal</string>
+    <string name="purchasing_power_high">Spendthrift</string>
+    <!-- Interests tags to show in small place END-->
+
+    <!-- Voted fail result BEGIN-->
+    <string name="round_two_points">ROUND:</string>
+    <string name="hits">HITS:</string>
+    <string name="do_new_round">New Round</string>
+    <!-- Voted fail result END-->
+
+    <!-- Profile BEGIN-->
+    <string name="periodic_credit">+1 FREE IN:\n24 hours</string>
+    <string name="name_twopoints">Name:</string>
+    <string name="years_twopoints">Age:</string>
+    <string name="discover">DISCOVER THAT THEY THINK OF YOU:</string>
+    <string name="total_votes">TOTAL\nVOTES RECEIVED:</string>
+    <string name="score_get">SCORE\nOBTAINED:</string>
+    <string name="do_guaper">GET GUAPER IN ONLY 50 SECONDS AND DISCOVER IF YOU REALLY ARE SO CUTE AS YOUR GRANDMOTHER TELLS YOU! AND WIN 200 COINS TO FOLLOW PLAYING</string>
+    <string name="sharecode">GET GUAPER https://play.google.com/store/apps/details?id=es.solusoft.guaper \n\nRECEIVE 10 COINS EXTRA LOGIN WITH THIS CODE:</string>
+    <!-- Profile END-->
+
+    <!-- Tutorial BEGIN-->
+    <string name="accept">Accept</string>
+    <string name="title_tutorial">If you suspect that your grandmother\´s compliments are not entirely objective ... Find out how much your pretty face in this game.</string>
+    <string name="instruction_1">Find out how others see you, earn points valuing the rest of guapers and multiply your winnings by playing our quiz.</string>
+    <string name="instruction_2">You can make three evaluations for each round.</string>
+    <string name="instruction_3">The valuations will be made from 4 levels of beauty.</string>
+    <string name="instruction_4">If you hit you will have the opportunity to level up to continue betting.</string>
+    <string name="instruction_5">At the end of each round you can multiply your winnings by playing our quiz.</string>
+    <string name="instruction_6">But beware! If you fail, finish the round and start again from level 1.</string>
+    <string name="tutorial_do_guaper_1">Also, if you become guaper, the other players will also value your photo and you will know how they really see you.</string>
+    <string name="tutorial_do_guaper_2">Dare to value the most handsome of the network and make a dent in our ranking.</string>
+    <!-- Tutorial END-->
+
+    <!-- Do Guaper step0 BEGIN-->
+    <string name="do_waper_step0_1">Leave the modesty aside and join the community of guapers more select of the network.</string>
+    <string name="do_waper_step0_2">Unlock Guaper Level of your profile and find out what they think about you</string>
+    <string name="do_waper_step0_3">Earn 200 credits to play non-stop</string>
+    <string name="do_waper_step0_4">In just 4 steps and in less than a minute you have created your Guaper profile ...</string>
+    <!-- Do Guaper step0 END-->
+
+    <!-- Save - CREATE PROFILE BEGIN-->
+    <string name="create_profile_header">YOU NEED A PROFILE TO SAVE AND FOLLOW PLAYING</string>
+    <string name="create_profile_choose_name">NAME:</string>
+    <string name="create_profile_years">HOW OLD ARE YOU?</string>
+    <string name="where_are_you">WHERE ARE YOU FROM?</string>
+    <string name="profile_years">years</string>
+    <string name="invitation_code">(OPTIONAL)INVITATION CODE...</string>
+    <string name="spain">Spain</string>
+    <string name="write_name">Write your name</string>
+    <string name="create_profile">CREATE PROFILE</string>
+    <!-- Save - CREATE PROFILE END-->
+
+    <!-- Do Guaper STEP A BEGIN-->
+    <string name="do_guaper_a_defind">FIRST DEFINE</string>
+    <string name="do_guaper_a_how_do_you_see">HOW DO YOU SEE?</string>
+    <string name="do_guaper_a_family">I\´M\nFAMILY</string>
+    <string name="do_guaper_a_worker">ENJOY\nMY\nWORK</string>
+    <string name="do_guaper_a_relations">I LIKE\nGOING OUT\nFRIENDS</string>
+    <string name="do_guaper_a_where_do_you_go">WHERE DO YOU USUALLY GO OUT?</string>
+    <string name="do_guaper_a_home">PREFER\nPLANS\nHOMEMADE</string>
+    <string name="do_guaper_a_city">BY\nMY CITY</string>
+    <string name="do_guaper_a_anywhere">BY\nANY\nWHERE</string>
+    <string name="do_guaper_a_how_do_you_see_no_selected">Select an option, How do you look?</string>
+    <string name="do_guaper_a_where_do_you_go_no_selected">Select an option, Where do you usually go out?</string>
+    <!-- Do Guaper STEP A END-->
+
+    <!-- Do Guaper STEP B BEGIN-->
+    <string name="do_guaper_b_now_likes">NOW YOUR LIKES</string>
+    <string name="do_guaper_b_what_likes">WHAT ARE YOUR HOBBIES?</string>
+    <string name="do_guaper_b_games">GAMES\nCONSOLES\nPC\´S</string>
+    <string name="do_guaper_b_healthy">LEAD\nHEALTHY\nLIFE</string>
+    <string name="do_guaper_b_sport">SPORT</string>
+    <string name="do_guaper_b_music">MUSIC</string>
+    <string name="do_guaper_b_economia">ECONOMY</string>
+    <string name="do_guaper_b_photography">PHOTOGRAPH</string>
+    <string name="do_guaper_b_radio_tv">RADIO\nAND TV</string>
+    <string name="do_guaper_b_read">READING</string>
+    <string name="do_guaper_b_go_shopping">GO\nSHOPPING</string>
+    <!-- Do Guaper STEP B END-->
+
+    <!-- Do Guaper STEP C BEGIN-->
+    <string name="do_guaper_c_put_guaper">LOOK HANDSOME!!</string>
+    <string name="do_guaper_c_do_selfie">MAKE A SELFIE OR CHOOSE A PHOTO:</string>
+    <string name="do_guaper_c_select_photo">SELECT PHOTO</string>
+    <string name="do_guaper_c_do_instructions">CHOOSE YOUR BEST PHOTO SO THAT THE REST OF\nGUAPERS CAN VOTE YOUR PRETTY FACE</string>
+    <string name="do_guaper_c_select_correct_photo">Please, select a valid photo from original Android gallery</string>
+    <!-- Do Guaper STEP C END-->
+
+    <!-- Do Guaper STEP D BEGIN-->
+    <string name="do_guaper_d_last">... AND FINALLY</string>
+    <string name="do_guaper_d_when_you_go">WHEN YOU GO SHOPPING</string>
+    <string name="do_guaper_d_cauto">I\´M CAUTIOUS</string>
+    <string name="do_guaper_d_gangas">I\´M\nA HUNTER\nOF GANGS</string>
+    <string name="do_guaper_d_impulsivo">I\´M VERY\nIMPULSIVE</string>
+    <string name="do_guaper_d_do_you_want_spend">DO YOU LIKE TO DRAW?</string>
+    <string name="do_guaper_d_ahorrar">NO,\nI LIKE\nSAVE UP</string>
+    <string name="do_guaper_d_normal">NORMAL,\nSONLY\nSOMETIMES</string>
+    <string name="do_guaper_d_gastar">SO MUCH,\nI LIKE\nSPEND!</string>
+    <string name="do_guaper_a_go_shopping_no_selected">Select an option, when you go shopping...</string>
+    <string name="do_guaper_a_spend_money_no_selected">Select an option, you like spend money</string>
+    <!-- Do Guaper STEP D END-->
+
+    <!-- Ranking BEGIN-->
+    <string name="your_ranking">YOUR GUAPER POSITION IS:</string>
+    <!-- Ranking END-->
+
+    <!-- Dialog Option BEGIN-->
+    <string name="profile">Create profile</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_new_round">NEW ROUND</string>
+    <string name="create_profile_dialog">Create a Guaper profile for credits sum.</string>
+    <!-- Dialog Option END-->
+
+    <!-- Ranking BEGIN-->
+    <string name="credits">CREDITS:</string>
+    <string name="no_photo">No photo found</string>
+    <!-- Ranking END-->
+    <!-- Terminos y condiciones de uso-->
+    <string name="terms_dialog"> If you continue to use the application, it means that you accept <a href="http://guaper.blob.core.windows.net/ftp/guaper-terms.html">the terms and conditions of use</a></string>
+    <string name="terms_title">Terms and conditions of use</string>
+
+
 </resources>
